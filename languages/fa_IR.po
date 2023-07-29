@@ -1,0 +1,2867 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Portfolio Web\n"
+"POT-Creation-Date: 2019-01-29 12:46+0545\n"
+"PO-Revision-Date: 2022-10-03 12:59+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "اوپس! این صفحه نمی تواند پیدا شود."
+
+#: 404.php:37
+msgid "404 Error"
+msgstr "خطای 404"
+
+#: 404.php:39
+msgid "Sorry! We could not found that page"
+msgstr "متاسفیم! ما نمی توانیم این صفحه را پیدا کنیم"
+
+#: 404.php:42
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"به نظر می رسد چیزی یافت نشد. شاید جستجو در یکی از لینک های زیر کمکتان کند. "
+"آیا مایل هستید؟"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:53
+#: acmethemes/at-theme-info/class-at-theme-info.php:71
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s! To fully take advantage of the best "
+"our theme can offer please make sure you visit our %2$swelcome page%3$s."
+msgstr ""
+"خوش آمدی! با تشکر از شما برای انتخاب %1$s! برای استفاده کامل از بهترین حالات "
+"قالب لطفا از صفحه %2$sخوش آمدیدگویی%3$s بازدید نمائید."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:53
+#: acmethemes/at-theme-info/class-at-theme-info.php:71
+#, php-format
+msgid "Get started with %s"
+msgstr "اکنون  %s را شروع کنید"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:69
+#: acmethemes/at-theme-info/class-at-theme-info.php:70
+msgid "Info"
+msgstr "اطلاعات"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:511
+#: acmethemes/at-theme-info/class-at-theme-info.php:640
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "نصب"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:516
+#: acmethemes/at-theme-info/class-at-theme-info.php:645
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "فعال سازی"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:522
+#: acmethemes/at-theme-info/class-at-theme-info.php:651
+msgid "Deactivate"
+msgstr "غیرفعال سازی"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:540
+msgid "Hooray! There are no recommended actions for you right now."
+msgstr "هورا! هیچ اقدام توصیه شده ای برای شما وجود ندارد."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:541
+msgid "Show All Recommended Actions"
+msgstr "نمایش تمامی اقدامات توصیه شده"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:626
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:295
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:419
+msgid "|"
+msgstr ""
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:631
+msgid "Active:"
+msgstr "فعال سازی:"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:706
+msgid "Download"
+msgstr "دانلود"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:709
+msgid "Live Preview"
+msgstr "پیش نمایش زنده"
+
+#. Theme Name of the plugin/theme
+#: acmethemes/at-theme-info/class-at-theme-info.php:850
+msgid "Portfolio Web"
+msgstr "نمونه کارهای وب"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:851
+msgid "Portfolio Web Pro"
+msgstr "نسخه حرفه ای نمونه کارهای وب"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1020
+#: acmethemes/at-theme-info/class-at-theme-info.php:1023
+msgid "Portfolio Web Info"
+msgstr "اطلاعات نمونه کارهای وب"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1026
+#, php-format
+msgid "Welcome to %s - "
+msgstr "خوش آمدی به  %s - "
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1029
+#, php-format
+msgid ""
+"%s is now installed and ready to use. We hope the following information will "
+"help you. If you want to ask any query or just want to say hello, you can "
+"always contact us. We hope you enjoy it! "
+msgstr ""
+"%s در حال حاضر نصب شده و آماده استفاده است. امیدواریم اطلاعات زیر به شما کمک "
+"کند! "
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1036
+msgid "Theme Details"
+msgstr "جزئیات قالب"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1040
+msgid "View Demo"
+msgstr "نمایش دمو"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1044
+#: acmethemes/at-theme-info/class-at-theme-info.php:1226
+msgid "View Pro Version"
+msgstr "نمایش نسخه حرفه ای"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1048
+msgid "Rate This Theme"
+msgstr "امتیاز به این قالب"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1068
+msgid "Getting Started"
+msgstr "الان شروع کنید"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1069
+msgid "Recommended Actions"
+msgstr "اقدامات توصیه شده"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1070
+msgid "Useful Plugins"
+msgstr "افزونه های مفید"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1071
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1072
+msgid "Changelog"
+msgstr "تغییرات"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1073
+msgid "FAQ"
+msgstr "سئوالات متداول"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1074
+msgid "Free VS PRO"
+msgstr "رایگان در مقابل حرفه ای"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1080
+msgid "Step 1 : Read full documentation"
+msgstr "مرحله 1: مستندات را کامل بخوانید"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1081
+#: acmethemes/at-theme-info/class-at-theme-info.php:1216
+msgid ""
+"Please check our full documentation for detailed information on how to Setup "
+"and Use Portfolio Web."
+msgstr ""
+"لطفا مستندات کامل ما را برای چگونگی راه اندازی و استفاده از قالب Portfolio "
+"Web بررسی کنید."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1082
+#: acmethemes/at-theme-info/class-at-theme-info.php:1214
+msgid "Documentation"
+msgstr "مستندات"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1089
+msgid "Step 2 : Go to Customizer"
+msgstr "مرحله 2: به سفارشی سازی قالب بروید"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1090
+msgid ""
+"All Setting, Theme Options, Widgets and Menus are available via Customize "
+"screen. Have a quick look or start customization!"
+msgstr ""
+"تمامی تنظیمات و گزینه های قالب، ابزارک ها و منوها از طریق صفحه سفارشی سازی "
+"در دسترس هستند. پس سفارشی سازی را شروع کنید!"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1091
+msgid "Go to Customizer"
+msgstr "به سفارشی سازی بروید"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1098
+msgid "Step 3: Setting Static Front Page"
+msgstr "مرحله 3: تنظیم صفحه اول استاتیک"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1099
+msgid ""
+"Select A static page than Front page and Posts page to enable Slider and "
+"Home Main Content Area"
+msgstr ""
+"یک صفحه استاتیک را انتخاب کنید تا صفحه اول و صفحه پست ها را به آن ها تخصیص "
+"داده شوند"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1100
+msgid "Static Front Page"
+msgstr "صفحه اول استاتیک"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1107
+msgid "Step 4 : Setting Featured Section "
+msgstr "مرحله 4: تنظیم بخش ویژه "
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1108
+msgid ""
+"Advanced Feature Section is available in this theme. Please do the Step 3 "
+"before this."
+msgstr ""
+"بخش ویژگی های پیشرفته برای این قالب موجود است. لطفا مرحله قبل (3) را انجام "
+"دهید."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1109
+msgid "Featured Section"
+msgstr "بخش ویژه ها"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1116
+msgid "Step 5 : Setting Home Main Content Area "
+msgstr "مرحله 5: تنظیم محتوای صفحه اصلی "
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1117
+msgid ""
+"You can Add, Edit, Remove or Drag, Drop, Reorder widgets on Home Main "
+"Content Area. Please do the Step 3 before this."
+msgstr ""
+"شما می توانید ابزارک ها را در قسمت 'خانه' اضافه، ویرایش یا حذف کنید آن هم "
+"تنها با رها کردن و کشیدن."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1118
+#: acmethemes/sidebar-widget/sidebar.php:122
+msgid "Home Main Content Area"
+msgstr "محتوای صفحه خانه"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1125
+msgid "WooCommerce Compatible"
+msgstr "با ووکامرس سازگار است"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1126
+msgid "The theme is fully compatible with WooCommerce"
+msgstr "قالب کاملا با ووکامرس سازگار است"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1127
+msgid "Install Recommended Plugins"
+msgstr "نصب افزونه های توصیه شده"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1137
+msgid "Install Demo Setup"
+msgstr "نصب دمو"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1138
+#: acmethemes/at-theme-info/class-at-theme-info.php:1166
+#, php-format
+msgid ""
+"For the demo content installation, install the Acme Demo Setup plugin and "
+"other Recommended plugins, download demo content from %1$s here %2$s. Then "
+"go to \"Acme Demo Setup\" and import demo. "
+msgstr ""
+"برای نصب محتوای دمو، افزونه Acme Demo Setup و دیگر افزونه های توصیه شده را "
+"نصب کنید، محتوای نسخه ی دمو را از %1$s از  اینجا %2$s دانلود کنید. سپس به "
+"\"Acme Demo Setup\" بروید و نسخه ی دمو را وارد کنید. "
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1144
+msgid "Setting Static Front Page"
+msgstr "تنظیم استاتیک صفحه اول"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1145
+#, php-format
+msgid ""
+"Select A static page than Front page and Posts page to enable Slider and "
+"Home Main Content Area %1$s Static Front Page %2$s "
+msgstr ""
+"صفحه استاتیک صفحه اول %2$s و صفحه های پست را انتخاب کنید تا اسلایدر در صفحه "
+"اصلی %1$s را فعال کنید "
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1164
+msgid "How to Setup Site like Demo"
+msgstr "نحوه راه اندازی سایتی همانند نسخه ی دمو"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1167
+msgid "Download Demo Content"
+msgstr "دانلود محتوای دمو"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1173
+msgid "Feature Section is now Showing"
+msgstr "بخش ویژگی ها در حال حاضر نمایش داده می شود"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1175
+msgid ""
+"Please go to Setting => Reading, then Select A static page than Homepage and "
+"Posts page to enable Slider and Home Main Content Area"
+msgstr ""
+"لطفا به تنظیمات => خواندن بروید، سپس یک صفحه استاتیک تنظیم کنید تا صفحه اصلی "
+"به همراه اسلایدر به نمایش در بیایند"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1176
+msgid "Set Static Page"
+msgstr "صفحه استاتیک تنظیم شده است"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1183
+msgid "Hide Portfolio Web by Acme Themes from footer ? "
+msgstr "مایل هستید که نام سازنده این قالب در فوتر نمایش داده شود؟ "
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1185
+msgid "Please visit the blog post to know more about it."
+msgstr "لطفا از پست های وبلاگ دیدن کنید تا اطلاعات بیشتری کسب کنید."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1186
+msgid "Hide credit text on Footer"
+msgstr "مخفی کردن متن Credit در فوتر"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1193
+msgid "Recent Updates of your Site ? "
+msgstr "به روز رسانی های اخیر را می خواهید ببینید؟ "
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1195
+msgid "Where i can get the recent updates of theme related updates ? "
+msgstr "از کجا می توانم به روز رسانی های اخیر مربوط به قالب را دریافت کنم؟ "
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1196
+msgid "Visit our site blog page"
+msgstr "صفحه وبلاگ ما را ببینید"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1205
+#: acmethemes/at-theme-info/class-at-theme-info.php:1208
+msgid "Contact Support"
+msgstr "تماس با پشتیبانی"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1207
+msgid ""
+"Got theme support question or found bug? Best place to ask your query is our "
+"dedicated Support forum."
+msgstr ""
+"سئوال یا مشکلی در مورد قالب دارید؟ بهترین مکان برای پرس و جوهای شما،انجمن "
+"پشتیبانی اختصاصی ما می باشد."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1217
+msgid "Read full documentation"
+msgstr "مستندات را کامل بخوانید"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1223
+msgid "Need more features?"
+msgstr "نیاز به ویژگی های بیشتر دارید؟"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1225
+msgid "Upgrade to PRO version for more exciting features and Priority Support."
+msgstr ""
+"ارتقا به نسخه حرفه ای برای ویژگی های هیجان انگیز تر و پشتیبانی ویژه تر."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1232
+msgid "Got sales related question?"
+msgstr "سئوال مد نظر شما مربوط به فروش چه می باشد؟"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1234
+msgid "Have any query before purchase, you are more than welcome to ask."
+msgstr "قبل از خرید، می توانید از سئوالی که داشتید مطرح فرمائید."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1235
+msgid "Pre-sale Question?"
+msgstr "سوال پیش از خرید؟"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1241
+#: acmethemes/at-theme-info/class-at-theme-info.php:1244
+msgid "Customization Request"
+msgstr "درخواست سفارشی کردن"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1243
+msgid "Needed any customization for the theme, you can request from here."
+msgstr ""
+"هرگونه سفارشی سازی که برای قالب نیاز داشتید، می توانید از اینجا درخواست خود "
+"را ارسال کنید."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1254
+msgid "Custom Widgets"
+msgstr "ابزارک های سفارشی"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1255
+msgid "All added custom widgets are ready for page builder plugin"
+msgstr "تمام ابزارک های سفارشی سازی، اضافه شده و آماده هستند"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1256
+msgid "10+ Available"
+msgstr "بیش از 10 مورد در دسترس است"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1257
+msgid "19+ Available"
+msgstr "بیش از 19 مورد در دسترس است"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1260
+msgid "Widget Options"
+msgstr "تنظیمات ابزارک"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1261
+msgid "Every widgets have multiple options to customize section"
+msgstr "هر ابزارک دارای گزینه های متعدد برای سفارشی سازی می باشد"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1262
+#: acmethemes/at-theme-info/class-at-theme-info.php:1274
+#: acmethemes/at-theme-info/class-at-theme-info.php:1280
+#: acmethemes/at-theme-info/class-at-theme-info.php:1286
+#: acmethemes/at-theme-info/class-at-theme-info.php:1298
+#: acmethemes/at-theme-info/class-at-theme-info.php:1310
+#: acmethemes/at-theme-info/class-at-theme-info.php:1316
+#: acmethemes/at-theme-info/class-at-theme-info.php:1400
+msgid "Limited"
+msgstr "محدود"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1263
+#: acmethemes/at-theme-info/class-at-theme-info.php:1281
+#: acmethemes/at-theme-info/class-at-theme-info.php:1287
+#: acmethemes/at-theme-info/class-at-theme-info.php:1299
+#: acmethemes/at-theme-info/class-at-theme-info.php:1317
+#: acmethemes/at-theme-info/class-at-theme-info.php:1347
+#: acmethemes/at-theme-info/class-at-theme-info.php:1353
+#: acmethemes/at-theme-info/class-at-theme-info.php:1359
+#: acmethemes/at-theme-info/class-at-theme-info.php:1377
+#: acmethemes/at-theme-info/class-at-theme-info.php:1401
+msgid "Multiple Options"
+msgstr "تنظیمات چندگانه"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1266
+msgid "Google Fonts"
+msgstr "فونت های گوگل"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1267
+msgid "Google fonts options for changing the overall site fonts "
+msgstr "تنظیمات فونت گوگل برای تغییر کلی در فونت های سایت "
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1269
+msgid "Unlimited +"
+msgstr "نامحدود"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1272
+msgid "Color Options"
+msgstr "تنظیمات رنگ"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1273
+msgid "Color options for changing overall site colors, Contact us"
+msgstr "تنظیمات رنگ برای تغییر رنگ کلی سایت و صفحه تماس با ما"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1275
+msgid "Almost All parts"
+msgstr "تقریبا همه قسمت ها"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1278
+#: acmethemes/customizer/header-options/header-panel.php:6
+msgid "Header Options"
+msgstr "تنظیمات هدر"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1279
+msgid "Customize the header section as your need."
+msgstr "بخش هدر را به هر شکلی که مایلید سفارشی سازی کنید."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1284
+#: acmethemes/customizer/header-options/menu-options.php:52
+msgid "Menu Options"
+msgstr "تنظیمات منو"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1285
+msgid ""
+"Lots of menu options are available to manage the menu section. Appearance > "
+"Menus"
+msgstr ""
+"بسیاری از گزینه های منو برای مدیریت بخش منو در دسترس هستند. به بخش نمایش> "
+"فهرست ها بروید"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1290
+msgid "Featured Selection"
+msgstr "انتخاب ویژگی ها"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1291
+msgid "This is slider section. Check every options there"
+msgstr "این بخش سایدبار است"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1292
+msgid "Unlimited Page"
+msgstr "صفحه نامحدود"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1293
+msgid "Unlimited Page, Custom or Third Party"
+msgstr "صفحه نامحدود یا سفارشی"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1296
+#: acmethemes/customizer/feature-section/feature-panel.php:6
+msgid "Featured Section Options"
+msgstr "تنظیمات بخش ویژه ها"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1297
+msgid "Options to manage the sliders"
+msgstr "گزینه هایی برای مدیریت سایدبار ها"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1302
+msgid "Sticky Sidebar"
+msgstr "استیکی شدن سایدبار"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1303
+msgid "Enable/Disable sticky sidebars"
+msgstr "فعال/غیرفعال سازی استیکی شدن سایدبار"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1308
+msgid "Blog/Archive Options"
+msgstr "تنظیمات وبلاگ/بایگانی"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1309
+msgid ""
+"Various Options are available for the blog and archive page management. "
+"Check on Appearance > Customize > Layout/Design Options."
+msgstr ""
+"تنظیمات مختلف برای مدیریت وبلاگ و بایگانی در دسترس هستند. موارد فوق را در "
+"قسمت نمایش> سفارشی سازی> طرح بندی /تنظیمات طراحی بررسی کنید."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1311
+msgid "Manage Every Entity"
+msgstr "مدیریت هر المانی"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1314
+#: acmethemes/customizer/footer-options/footer-panel.php:6
+msgid "Footer Options"
+msgstr "تنظیمات فوتر"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1315
+msgid "Manage the every entity related to footer section."
+msgstr "هر موجودیت مربوط به بخش فوتر را مدیریت کنید."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1320
+#: acmethemes/customizer/options/social-options.php:6
+msgid "Social Options"
+msgstr "تنظیمات شبکه های اجتماعی"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1321
+msgid ""
+"Options to manage the social icons like facebook, instagram, linkedin etc."
+msgstr ""
+"تنظیماتی برای مدیریت آیکون شبکه های اجتماعی مانند فیس بوک، لینکدین، "
+"اینستاگرام و غیره."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1326
+msgid "Theme Credit Link"
+msgstr "لینک Credit قالب"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1327
+msgid "Options to disable to Powered by text on footer."
+msgstr "تنظیماتی برای غیرفعال کردن طراح سایت در فوتر."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1328
+#: acmethemes/at-theme-info/class-at-theme-info.php:1335
+msgid "Enable/Disable"
+msgstr "فعال/غیرفعال"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1329
+msgid "Enable/Disable/Custom"
+msgstr "فعال/غیرفعال/سفارشی"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1332
+msgid "Own Credit Link"
+msgstr "لینک Credit شخصی"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1333
+msgid "Write your own credit text."
+msgstr "متن Credit خود را بنویسید."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1338
+msgid "Social Icons"
+msgstr "آیکون شبکه های اجتماعی"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1339
+msgid "Enter the URL for social icons. "
+msgstr "آدرس مربوط به آیکون شبکه های اجتماعی را وارد کنید. "
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1340
+msgid "Unlimited"
+msgstr "نامحدود"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1341
+msgid "Unlimited with multiple Options"
+msgstr "با تنظیمات نامحدود و گزینه های متعدد"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1344
+msgid "Intro Loader Options"
+msgstr "تنظیمات Loader"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1345
+msgid "It will load before the site loaded completely."
+msgstr "این بار سایت به طور کامل بارگذاری خواهد شد."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1350
+msgid "Related Post Options"
+msgstr "تنظیمات پست های مرتبط"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1351
+msgid "Related post will appear on single post of each blog article"
+msgstr "مقاله مربوطه در تمام صفحات پست ظاهر می شود"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1356
+msgid "Author Info Options"
+msgstr "تنظیمات اطلاعات نویسنده"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1357
+msgid "This will appear on single post."
+msgstr "این در صفحه پست ظاهر می شود."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1362
+msgid "Feature Image Options"
+msgstr "تنظیمات ویژگی های تصویر"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1363
+msgid "Featured image options for the single page and post."
+msgstr "تنظیمات تصویر ویژه برای صفحات."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1365
+msgid "Manage As Your Need"
+msgstr "مدیریت نیازهای شما"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1368
+msgid "Navigation Options"
+msgstr "تنظیمات ناوبری"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1369
+msgid ""
+"Post Navigation means, previous post and next post. Check on single post."
+msgstr "ناوبری پست قبلی و پست بعدی."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1370
+#: acmethemes/at-theme-info/class-at-theme-info.php:1418
+#: acmethemes/at-theme-info/class-at-theme-info.php:1430
+#: acmethemes/customizer/customizer-core.php:14
+#: acmethemes/customizer/customizer-core.php:284
+#: acmethemes/sidebar-widget/sidebar.php:30
+msgid "Default"
+msgstr "پیش فرض"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1371
+#: acmethemes/at-theme-info/class-at-theme-info.php:1389
+msgid "Advanced"
+msgstr "پیشرفته"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1374
+msgid "Post Comment Options"
+msgstr "تنظیمات دیدگاه پست ها"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1375
+msgid "Manage the comment section on single post."
+msgstr "بخش نظرات را برای صفحه پست ها مدیریت کنید."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1380
+msgid "Show/Hide Comment"
+msgstr "نمایش/پنهان دیدگاه"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1381
+msgid "Options to show hide comments on page and post."
+msgstr "تنظیماتی برای نشان دادن یا پنهان کردن نظرات در صفحات."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1386
+msgid "Breadcrumb"
+msgstr ""
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1387
+msgid "Advanced options for manage the Breadcrumb."
+msgstr "تنظیمات پیشرفته برای مدیریت Breadcrumb."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1392
+msgid "Video Post On Featured"
+msgstr "ویدیو در بخش ویژه ها"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1393
+msgid "Create your video post easily from Youtube and Vimeo video."
+msgstr "ویدئوی خود را به راحتی در یوتیوب و Vimeo ایجاد کنید."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1395
+msgid "Add Own Video On Featured"
+msgstr "افزودن ویدیو در بخش ویژه ها"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1398
+msgid "Single Post Options"
+msgstr "تنظیمات صفحه پست ها"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1399
+msgid "Manage every entity of single post."
+msgstr "هر موجودیتی را در صفحه پست ها مدیریت کنید."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1404
+msgid "Featured Image Size"
+msgstr "سایز تصاویر ویژه"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1405
+msgid "Select the size of the featured image on the single post."
+msgstr "اندازه تصویر برجسته را در صفحه پست ها انتخاب کنید."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1410
+msgid "Sidebars"
+msgstr "سایدبار ها"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1411
+msgid ""
+"Global and Individual sidebars are available. You can easily orveride it "
+"from single page/post."
+msgstr ""
+"ستون های فرعی در دسترس هستند شما می توانید آن را به راحتی از صفحاتتان "
+"بردارید."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1412
+msgid "Global Options"
+msgstr "تنظیمات عمومی"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1413
+msgid "Advanced Global And Individuals"
+msgstr "اشخاص حقیقی و حقوقی"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1416
+msgid "Menu and Logo Location"
+msgstr "مکان منو و لوگو"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1417
+msgid "Position of menu and logo section on header."
+msgstr "موقعیت منو و لوگو در هدر."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1419
+msgid "3 Position Left, Right and Middle"
+msgstr "3 موقعیت چپ، راست و مرکز"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1422
+msgid "Popup Widget on Header"
+msgstr "ابزارک پاپ آپ در هدر"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1423
+msgid "Options to popup widget via Popup Widget Area on Header Top Section."
+msgstr ""
+"تنظیمات مربوط به ابزارک از طریق پاپ آپ در بخش هدر بالا نمایش داده می شود."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1424
+#: acmethemes/at-theme-info/class-at-theme-info.php:1425
+msgid "Add your required Widget"
+msgstr "افزودن ابزارک های مورد نیاز شما"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1428
+msgid "Multiple Header Type"
+msgstr "نوع هدر چندگانه"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1429
+msgid "Different Types of Header."
+msgstr "انواع مختلف هدر."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1431
+msgid "3 Options"
+msgstr "3 تنظیمات"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1434
+msgid "WooCommerce"
+msgstr "ووکامرس"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1435
+msgid "Create WooCommerce shop easily with the help of WooCommerce plugin."
+msgstr "فروشگاهتان را به راحتی با کمک افزونه ووکامرس ایجاد کنید."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1440
+msgid "Translation"
+msgstr "ترجمه"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1441
+msgid "Both theme are translation ready."
+msgstr "هر دو قالب آماده ترجمه هستند."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1446
+msgid "SEO"
+msgstr "سئو"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1447
+msgid "Developed with high skilled SEO tools."
+msgstr "طراحی شده توسط متخصصینی که به ابزارهای SEO اشراف دارند."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1452
+msgid "Widget Area On Footer"
+msgstr "مکان ابزارک در فوتر"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1453
+msgid "Change the number of footers on footer area as you need."
+msgstr "قسمت پایین تر فوتر به همان اندازه که نیاز دارید تغییر خواهد کرد."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1458
+msgid "Support Forum"
+msgstr "انجمن های پشتیبانی"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1459
+msgid ""
+"Highly dedicated support team are assigned for your help. Try this today."
+msgstr ""
+"تیم پشتیبانی مجربی را برای کمک به شما اختصاص داده ایم. می توانید امتحان کنید."
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1460
+msgid "Second"
+msgstr "دومین"
+
+#: acmethemes/at-theme-info/class-at-theme-info.php:1461
+msgid "Dedicated With High Priority"
+msgstr "اختصاص داده شده با اولویت بالا"
+
+#: acmethemes/core.php:56
+msgid "Top Menu ( Support First Level Only )"
+msgstr "منوی بالا (پشتیبانی فقط برای سطح اول)"
+
+#: acmethemes/core.php:57
+msgid "Primary Menu"
+msgstr "منوی اصلی"
+
+#: acmethemes/core.php:58
+msgid "One Page Menu for Front Page"
+msgstr "صفحه منو برای صفحه اول"
+
+#: acmethemes/core.php:59
+msgid "Footer Menu ( Support First Level Only )"
+msgstr "منوی فوتر (پشتیبانی فقط برای سطح اول)"
+
+#: acmethemes/core/custom-header.php:23
+msgid "Default Header Image"
+msgstr "تصویر هدر پیش فرض"
+
+#: acmethemes/core/template-tags.php:16 acmethemes/core/template-tags.php:66
+msgid ", "
+msgstr "، "
+
+#: acmethemes/core/template-tags.php:76
+msgid "Leave a comment"
+msgstr "پیام بگذارید"
+
+#: acmethemes/core/template-tags.php:76
+msgid "1 Comment"
+msgstr "1 دیدگاه"
+
+#: acmethemes/core/template-tags.php:76
+msgid "% Comments"
+msgstr "% دیدگاه"
+
+#: acmethemes/core/template-tags.php:85 template-parts/content-page.php:41
+#, php-format
+msgid "Edit %s"
+msgstr "ویرایش %s"
+
+#: acmethemes/customizer/custom-controls.php:37
+msgid "Select"
+msgstr "انتخاب"
+
+#: acmethemes/customizer/customizer-core.php:15
+msgid "Classic"
+msgstr "کلاسیک"
+
+#: acmethemes/customizer/customizer-core.php:16
+msgid "Transparent"
+msgstr "شفافیت"
+
+#: acmethemes/customizer/customizer-core.php:34
+#: acmethemes/customizer/customizer-core.php:74
+#: acmethemes/customizer/customizer-core.php:155
+#: acmethemes/customizer/customizer-core.php:303
+msgid "Hide"
+msgstr "مخفی کردن"
+
+#: acmethemes/customizer/customizer-core.php:35
+msgid "Background Image"
+msgstr "تصویر پس زمینه"
+
+#: acmethemes/customizer/customizer-core.php:36
+msgid "Normal Image"
+msgstr "تصویر استاندارد"
+
+#: acmethemes/customizer/customizer-core.php:54
+#: acmethemes/sidebar-widget/sidebar.php:74
+msgid "Disable"
+msgstr "غیرفعال کردن"
+
+#: acmethemes/customizer/customizer-core.php:55
+msgid "Popup Widgets ( Booking Form )"
+msgstr "ابزارک پاپ آپ (فرم رزرو)"
+
+#: acmethemes/customizer/customizer-core.php:56
+msgid "One Link"
+msgstr "لینک اول"
+
+#: acmethemes/customizer/customizer-core.php:75
+msgid "on Top Left"
+msgstr "در بالا سمت چپ"
+
+#: acmethemes/customizer/customizer-core.php:76
+msgid "on Top Right"
+msgstr "در بالا سمت راست"
+
+#: acmethemes/customizer/customizer-core.php:94
+msgid "Alternate"
+msgstr "یکی در میان"
+
+#: acmethemes/customizer/customizer-core.php:95
+msgid "Left"
+msgstr "چپ"
+
+#: acmethemes/customizer/customizer-core.php:96
+msgid "Right"
+msgstr "راست"
+
+#: acmethemes/customizer/customizer-core.php:97
+msgid "Center"
+msgstr "وسط"
+
+#: acmethemes/customizer/customizer-core.php:115
+msgid "Full Screen Background"
+msgstr "پس زمینه تمام صفحه"
+
+#: acmethemes/customizer/customizer-core.php:116
+msgid "Responsive Image"
+msgstr "تصویر ریسپانسیو"
+
+#: acmethemes/customizer/customizer-core.php:134
+#: acmethemes/sidebar-widget/sidebar.php:51
+msgid "1"
+msgstr ""
+
+#: acmethemes/customizer/customizer-core.php:135
+#: acmethemes/sidebar-widget/sidebar.php:52
+msgid "2"
+msgstr ""
+
+#: acmethemes/customizer/customizer-core.php:136
+#: acmethemes/sidebar-widget/sidebar.php:53
+msgid "3"
+msgstr ""
+
+#: acmethemes/customizer/customizer-core.php:137
+#: acmethemes/sidebar-widget/sidebar.php:54
+msgid "4"
+msgstr ""
+
+#: acmethemes/customizer/customizer-core.php:156
+msgid "Social Links"
+msgstr "لینک شبکه های اجتماعی"
+
+#: acmethemes/customizer/customizer-core.php:157
+msgid "Footer Menu"
+msgstr "منوی فوتر"
+
+#: acmethemes/customizer/customizer-core.php:175
+msgid "Rectangle"
+msgstr "مستطیل"
+
+#: acmethemes/customizer/customizer-core.php:176
+msgid "Rounded Rectangle"
+msgstr "مستطیل گرد"
+
+#: acmethemes/customizer/customizer-core.php:194
+#: acmethemes/sidebar-widget/sidebar.php:107
+msgid "Right Sidebar"
+msgstr "سایدبار راست"
+
+#: acmethemes/customizer/customizer-core.php:195
+#: acmethemes/sidebar-widget/sidebar.php:132
+msgid "Left Sidebar"
+msgstr "سایدبار جچ"
+
+#: acmethemes/customizer/customizer-core.php:196
+msgid "Both Sidebar"
+msgstr "هر دو سایدبار"
+
+#: acmethemes/customizer/customizer-core.php:197
+msgid "Middle Column"
+msgstr "ستون مرکزی"
+
+#: acmethemes/customizer/customizer-core.php:198
+msgid "No Sidebar"
+msgstr "بدون سایدبار"
+
+#: acmethemes/customizer/customizer-core.php:216
+msgid "Show Image"
+msgstr "نمایش تصویر"
+
+#: acmethemes/customizer/customizer-core.php:217
+#: acmethemes/customizer/customizer-core.php:256
+msgid "No Image"
+msgstr "بدون تصویر"
+
+#: acmethemes/customizer/customizer-core.php:235
+#: acmethemes/sidebar-widget/sidebar.php:93
+msgid "Excerpt"
+msgstr "چکیده"
+
+#: acmethemes/customizer/customizer-core.php:236
+#: acmethemes/sidebar-widget/sidebar.php:94
+msgid "Content"
+msgstr "محتوا"
+
+#: acmethemes/customizer/customizer-core.php:261
+msgid "full (original)"
+msgstr "کامل (اصلی)"
+
+#: acmethemes/customizer/customizer-core.php:285
+msgid "Numeric"
+msgstr "عددی"
+
+#: acmethemes/customizer/customizer-core.php:306
+msgid "Yoast"
+msgstr "یئوست"
+
+#: acmethemes/customizer/customizer-core.php:309
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: acmethemes/customizer/customizer-core.php:348
+#: acmethemes/functions/primary-menu.php:22
+msgid "Book Table"
+msgstr "جدول رزرو"
+
+#: acmethemes/customizer/customizer-core.php:366
+msgid "Send Us a Mail"
+msgstr "یک ایمیل برای ما بفرستید"
+
+#: acmethemes/customizer/customizer-core.php:367
+msgid "domain@example.com "
+msgstr "info@test.com "
+
+#: acmethemes/customizer/customizer-core.php:369
+msgid "Our Location"
+msgstr "موقعیت ما"
+
+#: acmethemes/customizer/customizer-core.php:370
+msgid "Elmonte California"
+msgstr "تهران - پاسداران"
+
+#: acmethemes/customizer/customizer-core.php:372
+msgid "Call Us"
+msgstr "با ما تماس بگیرید"
+
+#: acmethemes/customizer/customizer-core.php:373
+msgid "01-23456789-10"
+msgstr "02174553000"
+
+#: acmethemes/customizer/customizer-core.php:375
+msgid "Office Hours"
+msgstr "ساعات اداری"
+
+#: acmethemes/customizer/customizer-core.php:376
+msgid "8 hours per day"
+msgstr "8 ساعت در روز"
+
+#: acmethemes/customizer/customizer-core.php:379
+msgid "&copy; All right reserved"
+msgstr "&copy; تمامی حقوق محفوظ است"
+
+#: acmethemes/customizer/customizer-core.php:397
+msgid "Read More"
+msgstr "ادامه مطلب"
+
+#: acmethemes/customizer/customizer-core.php:417
+msgid "Blog"
+msgstr "وبلاگ"
+
+#: acmethemes/customizer/customizer-core.php:421
+msgid "Booking Table"
+msgstr "جدول رزرو"
+
+#: acmethemes/customizer/customizer-core.php:423
+#: acmethemes/customizer/options/search.php:6
+msgid "Search"
+msgstr "جستجو"
+
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:93
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:250
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:369
+#: acmethemes/metabox/meta-icons.php:46
+msgid "Add Icon"
+msgstr "افزودن آیکون"
+
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:93
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:369
+#: acmethemes/metabox/meta-icons.php:46
+msgid "Edit Icon"
+msgstr "ویرایش آیکون"
+
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:97
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:254
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:373
+#: acmethemes/metabox/meta-icons.php:50
+msgid "Search Icon"
+msgstr "جستجوی آیکون"
+
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:276
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:399
+#: acmethemes/sidebar-widget/acme-about.php:85
+#: acmethemes/sidebar-widget/acme-logo.php:86
+#: acmethemes/sidebar-widget/acme-logo.php:131
+#: acmethemes/sidebar-widget/acme-parallax.php:80
+#: acmethemes/sidebar-widget/acme-service.php:226
+#: acmethemes/sidebar-widget/acme-skills.php:250
+#: acmethemes/sidebar-widget/acme-testimonial.php:229
+msgid "Image preview"
+msgstr "پیش نمایش تصویر"
+
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:279
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:402
+#: acmethemes/sidebar-widget/acme-about.php:88
+#: acmethemes/sidebar-widget/acme-logo.php:89
+#: acmethemes/sidebar-widget/acme-logo.php:134
+#: acmethemes/sidebar-widget/acme-parallax.php:83
+#: acmethemes/sidebar-widget/acme-service.php:229
+#: acmethemes/sidebar-widget/acme-skills.php:253
+#: acmethemes/sidebar-widget/acme-testimonial.php:232
+msgid "Upload Image"
+msgstr "آپلود تصویر"
+
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:279
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:402
+#: acmethemes/sidebar-widget/acme-logo.php:89
+#: acmethemes/sidebar-widget/acme-logo.php:134
+msgid "Select Image"
+msgstr "انتخاب تصویر"
+
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:280
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:403
+#: acmethemes/sidebar-widget/acme-about.php:89
+#: acmethemes/sidebar-widget/acme-logo.php:90
+#: acmethemes/sidebar-widget/acme-logo.php:135
+#: acmethemes/sidebar-widget/acme-parallax.php:84
+#: acmethemes/sidebar-widget/acme-service.php:230
+#: acmethemes/sidebar-widget/acme-skills.php:254
+#: acmethemes/sidebar-widget/acme-testimonial.php:233
+msgid "Remove Image"
+msgstr "حذف تصویر"
+
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:293
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:417
+msgid "Delete"
+msgstr "حذف"
+
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:297
+#: acmethemes/customizer/customizer-repeater/customizer-control-repeater.php:421
+#: acmethemes/sidebar-widget/acme-gallery.php:95
+#: acmethemes/sidebar-widget/acme-gallery.php:143
+#: acmethemes/sidebar-widget/acme-logo.php:99
+#: acmethemes/sidebar-widget/acme-logo.php:144
+#: acmethemes/sidebar-widget/acme-service.php:106
+#: acmethemes/sidebar-widget/acme-service.php:154
+#: acmethemes/sidebar-widget/acme-skills.php:126
+#: acmethemes/sidebar-widget/acme-skills.php:176
+#: acmethemes/sidebar-widget/acme-testimonial.php:115
+#: acmethemes/sidebar-widget/acme-testimonial.php:171
+#: acmethemes/sidebar-widget/acme-timeline.php:132
+#: acmethemes/sidebar-widget/acme-timeline.php:196
+msgid "Close"
+msgstr "بستن"
+
+#: acmethemes/customizer/customizer.php:80
+msgid "Home Main Content Area "
+msgstr "ناحیه محتوای صفحه اصلی "
+
+#: acmethemes/customizer/design-options/animation.php:6
+msgid "Animation"
+msgstr "انیمیشن"
+
+#: acmethemes/customizer/design-options/animation.php:17
+msgid "Disable animation"
+msgstr "غیرفعال کردن انیمیشن"
+
+#: acmethemes/customizer/design-options/animation.php:18
+msgid "Check this to disable overall site animation effect provided by theme"
+msgstr "این انیمیشن را به طور کلی برای این قالب غیرفعال کنید"
+
+#: acmethemes/customizer/design-options/archive-sidebar-layout.php:6
+#: acmethemes/customizer/design-options/archive-sidebar-layout.php:19
+msgid "Category/Archive Sidebar Layout"
+msgstr "لایه بندی سایدبار دسته بندی/بایگانی"
+
+#: acmethemes/customizer/design-options/archive-sidebar-layout.php:20
+msgid "Sidebar Layout for listing pages like category, author etc"
+msgstr "لایه بندی سایدبار برای صفحات دسته بندی ها، نویسنده و غیره"
+
+#: acmethemes/customizer/design-options/blog-layout.php:17
+msgid "Default Blog/Archive Layout"
+msgstr "لایه بندی پیش فرض وبلاگ/بایگانی"
+
+#: acmethemes/customizer/design-options/blog-layout.php:30
+msgid "Blog/Archive Feature Image Size"
+msgstr "سایز تصویر وبلاگ/بایگانی"
+
+#: acmethemes/customizer/design-options/blog-layout.php:45
+msgid "Blog/Archive Content From"
+msgstr "محتوای وبلاگ/بایگانی از"
+
+#: acmethemes/customizer/design-options/blog-layout.php:58
+msgid "Except Length"
+msgstr "طول چکیده"
+
+#: acmethemes/customizer/design-options/blog-layout.php:72
+msgid "Read More Text"
+msgstr "متن ادامه مطلب"
+
+#: acmethemes/customizer/design-options/blog-layout.php:87
+msgid "Pagination Options"
+msgstr "تنظیمات صفحه بندی"
+
+#: acmethemes/customizer/design-options/blog-layout.php:88
+msgid "Blog and Archive Pages Pagination"
+msgstr "صفحه بندی صفحات وبلاگ و بایگانی"
+
+#: acmethemes/customizer/design-options/colors-options.php:4
+msgid "Basic Color"
+msgstr "رنگ پایه"
+
+#: acmethemes/customizer/design-options/colors-options.php:19
+msgid "Primary Color"
+msgstr "رنگ اصلی"
+
+#: acmethemes/customizer/design-options/colors-options.php:38
+msgid "Header Top Background Color"
+msgstr "رنگ پس زمینه بالای هدر"
+
+#: acmethemes/customizer/design-options/colors-options.php:39
+msgid "Also used as secondary color"
+msgstr "به عنوان رنگ ثانویه استفاده می شود"
+
+#: acmethemes/customizer/design-options/colors-options.php:59
+msgid "Footer Background Color"
+msgstr "رنگ پس زمینه فوتر"
+
+#: acmethemes/customizer/design-options/colors-options.php:79
+msgid "Footer Bottom Background Color"
+msgstr "رنگ پس زمینه پائین فوتر"
+
+#: acmethemes/customizer/design-options/colors-options.php:94
+msgid "Link Color"
+msgstr "رنگ لینک"
+
+#: acmethemes/customizer/design-options/colors-options.php:107
+msgid "Link Hover Color"
+msgstr "رنگ هاور لینک"
+
+#: acmethemes/customizer/design-options/design-panel.php:6
+msgid "Layout/Design Option"
+msgstr "تنظیمات لایه بندی/طراحی"
+
+#: acmethemes/customizer/design-options/front-page-content.php:17
+msgid "Front Page Content Options"
+msgstr "تنظیمات محتوای صفحه اول"
+
+#: acmethemes/customizer/design-options/front-page-content.php:29
+msgid "Hide Front Page Content"
+msgstr "مخفی کردن محتوای صفحه اول"
+
+#: acmethemes/customizer/design-options/front-page-content.php:30
+msgid ""
+"You may want to hide front page content and want to show only Feature "
+"section and Home Widgets. Check this to hide front page content."
+msgstr ""
+"شما ممکن است بخواهید محتوای صفحه اول را پنهان کنید و بخواهید تنها قسمت ویژگی "
+"و صفحه اصلی ابزارک را نشان دهید. برای مخفی کردن محتوای صفحه اول، این را "
+"بررسی کنید."
+
+#: acmethemes/customizer/design-options/front-page-content.php:43
+msgid "Hide Front Page Header"
+msgstr "مخفی کردن هدر صفحه اول"
+
+#: acmethemes/customizer/design-options/front-page-content.php:44
+msgid ""
+"You may want to hide front page header and want to show only Feature section "
+"and Home Widgets. Check this to hide front page Header."
+msgstr ""
+"ممکن است بخواهید هدر صفحه را مخفی کنید و فقط بخش ویژگی ها و ابزارک های صفحه "
+"اصلی را نمایش دهید."
+
+#: acmethemes/customizer/design-options/front-page-sidebar-layout.php:6
+#: acmethemes/customizer/design-options/front-page-sidebar-layout.php:19
+msgid "Front/Home Sidebar Layout"
+msgstr "لایه بندی سایدبار صفحه اصلی"
+
+#: acmethemes/customizer/design-options/sidebar-layout.php:6
+#: acmethemes/customizer/design-options/sidebar-layout.php:19
+msgid "Default Page/Post Sidebar Layout"
+msgstr "لایه بندی پیش فرض سایدبار صفحات"
+
+#: acmethemes/customizer/design-options/sidebar-layout.php:20
+msgid "Single Page/Post Sidebar"
+msgstr "سایدبار صفحات"
+
+#: acmethemes/customizer/feature-section/feature-enable.php:6
+#: acmethemes/customizer/feature-section/feature-enable.php:18
+msgid "Enable Feature Section"
+msgstr "فعال سازی بخش ویژگی"
+
+#: acmethemes/customizer/feature-section/feature-enable.php:19
+#, php-format
+msgid ""
+"Feature section will display on front/home page. Feature Section includes "
+"Feature Slider and Feature Column.%1$s Note : Please go to %2$s \"Static "
+"Front Page\"%3$s setting, Select \"A static page\" then \"Front page\" and "
+"\"Posts page\" to enable it"
+msgstr ""
+"بخش ویژگی ها در صفحه اول نمایش داده خواهد شد. بخش ویژگی ها شامل اسلایدر و "
+"ستون های ویژه است.%1$s توجه: لطفا به %2$s \"صفحه اول استاتیک\" و تنظیمات "
+"%3$s بروید و آنرا فعال کنید"
+
+#: acmethemes/customizer/feature-section/feature-panel.php:7
+msgid "Customize your awesome site feature section "
+msgstr "بخش ویژگی های سایت خود را سفارشی سازی کنید "
+
+#: acmethemes/customizer/feature-section/feature-slider.php:6
+msgid "Feature Slider Selection"
+msgstr "انتخاب اسلایدر بخش ویژگی"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:13
+msgid "Select Slider Page"
+msgstr "اسلایدر صفحه را انتخاب کنید"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:26
+msgid "Slider Selection"
+msgstr "انتخاب اسلایدر"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:27
+msgid "Select Page For Slider"
+msgstr "صفحه ای برای اسلایدر انتخاب کنید"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:30
+msgid "Select Slide of Slider"
+msgstr "اسلاید مربوط به اسلایدر را انتخاب کنید"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:31
+msgid "Add New Slide"
+msgstr "اسلاید جدید اضافه کنید"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:36
+msgid "Select Page For Slide"
+msgstr "صفحه ای برای اسلاید انتخاب کنید"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:41
+msgid "Button One Text"
+msgstr "متن دکمه اول"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:45
+msgid "Button One Link"
+msgstr "لینک دکمه اول"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:49
+msgid "Button Two Text"
+msgstr "متن دکمه دوم"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:53
+msgid "Button Two Link"
+msgstr "لینک دکمه دوم"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:66
+msgid "Enable Animation"
+msgstr "فعال کردن انیمیشن"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:79
+msgid "Display Title"
+msgstr "نمایش عنوان"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:92
+msgid "Display Excerpt"
+msgstr "نمایش چکیده"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:107
+msgid "Feature Slider Image Display Options"
+msgstr "تنظیمات نمایش تصویر اسلایدر ویژه"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:122
+msgid "Slider Text Align"
+msgstr "ترازبندی متن اسلایدر"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:135
+msgid "Slider Scroll Text"
+msgstr "متن اسلایدر"
+
+#: acmethemes/customizer/feature-section/feature-slider.php:148
+msgid "Slider Scroll Link"
+msgstr "لینک اسلایدر"
+
+#: acmethemes/customizer/footer-options/footer-bg-img.php:7
+#: acmethemes/customizer/footer-options/footer-bg-img.php:22
+msgid "Footer Background Image"
+msgstr "تصویر پس زمینه فوتر"
+
+#: acmethemes/customizer/footer-options/footer-copyright.php:6
+msgid "Bottom Copyright Section"
+msgstr "بخش پائین کپی رایت"
+
+#: acmethemes/customizer/footer-options/footer-copyright.php:17
+msgid "Copyright Text"
+msgstr "متن کپی رایت"
+
+#: acmethemes/customizer/footer-options/footer-copyright.php:32
+msgid "Footer Copyright Beside Option"
+msgstr "تنظیم کپی رایت فوتر"
+
+#: acmethemes/customizer/footer-options/footer-copyright.php:45
+msgid " Enable Theme Name And Powered By Text "
+msgstr " نام قالب و نام طراح قالب را فعال کنید "
+
+#: acmethemes/customizer/footer-options/footer-panel.php:7
+msgid "Customize your awesome site footer "
+msgstr "فوتر سایت خود را سفارشی سازی کنید "
+
+#: acmethemes/customizer/header-options/feature-info.php:6
+msgid "Feature Info"
+msgstr "اطلاعات ویژگی ها"
+
+#: acmethemes/customizer/header-options/feature-info.php:19
+msgid "Basic Info Number Display"
+msgstr "نمایش تعداد اطلاعات پایه"
+
+#: acmethemes/customizer/header-options/feature-info.php:37
+msgid "First Info"
+msgstr "اطلاعات اول"
+
+#: acmethemes/customizer/header-options/feature-info.php:54
+#: acmethemes/customizer/header-options/feature-info.php:114
+#: acmethemes/customizer/header-options/feature-info.php:174
+#: acmethemes/customizer/header-options/feature-info.php:234
+msgid "Icon"
+msgstr "آیکون"
+
+#: acmethemes/customizer/header-options/feature-info.php:68
+#: acmethemes/customizer/header-options/feature-info.php:128
+#: acmethemes/customizer/header-options/feature-info.php:188
+#: acmethemes/customizer/header-options/feature-info.php:248
+#: acmethemes/functions.php:223 acmethemes/sidebar-widget/acme-about.php:63
+#: acmethemes/sidebar-widget/acme-col-posts.php:75
+#: acmethemes/sidebar-widget/acme-contact.php:55
+#: acmethemes/sidebar-widget/acme-gallery.php:54
+#: acmethemes/sidebar-widget/acme-logo.php:49
+#: acmethemes/sidebar-widget/acme-parallax.php:62
+#: acmethemes/sidebar-widget/acme-service.php:64
+#: acmethemes/sidebar-widget/acme-skills.php:60
+#: acmethemes/sidebar-widget/acme-testimonial.php:55
+#: acmethemes/sidebar-widget/acme-timeline.php:54
+msgid "Title"
+msgstr "عنوان"
+
+#: acmethemes/customizer/header-options/feature-info.php:80
+#: acmethemes/customizer/header-options/feature-info.php:140
+#: acmethemes/customizer/header-options/feature-info.php:200
+#: acmethemes/customizer/header-options/feature-info.php:260
+msgid "Very Short Description"
+msgstr "توضیحات بسیار کوتاه"
+
+#: acmethemes/customizer/header-options/feature-info.php:98
+msgid "Second Info"
+msgstr "اطلاعات دوم"
+
+#: acmethemes/customizer/header-options/feature-info.php:158
+msgid "Third Info"
+msgstr "اطلاعات سوم"
+
+#: acmethemes/customizer/header-options/feature-info.php:218
+msgid "Forth Info"
+msgstr "اطلاعات چهارم"
+
+#: acmethemes/customizer/header-options/header-logo.php:9
+msgid "Display Logo"
+msgstr "نمایش لوگو"
+
+#: acmethemes/customizer/header-options/header-logo.php:22
+msgid "Display Site Title"
+msgstr "نمایش عنوان سایت"
+
+#: acmethemes/customizer/header-options/header-logo.php:35
+msgid "Display Site Tagline"
+msgstr "نمایش شعار سایت"
+
+#: acmethemes/customizer/header-options/header-panel.php:7
+msgid "Customize your awesome site header "
+msgstr "هدر سایت خود را سفارشی سازی کنید "
+
+#: acmethemes/customizer/header-options/header-panel.php:37
+msgid "Applied to header image of inner pages."
+msgstr "کارایی تصویر هدر در صفحات داخلی."
+
+#: acmethemes/customizer/header-options/header-panel.php:50
+msgid "Inner Page Header Section Height"
+msgstr "ارتفاع بخش داخلی هدر"
+
+#: acmethemes/customizer/header-options/header-panel.php:51
+msgid ""
+"Control the height of Header section. The minimum height is 100px and "
+"maximium height is 500px"
+msgstr ""
+"ارتفاع بخش هدر را کنترل کنید. حداقل ارتفاع 100px و حداکثر ارتفاع 500px است"
+
+#: acmethemes/customizer/header-options/header-panel.php:72
+msgid "Header Image Display"
+msgstr "نمایش تصویر هدر"
+
+#: acmethemes/customizer/header-options/header-top.php:17
+msgid "Header Top"
+msgstr "هدر بالا"
+
+#: acmethemes/customizer/header-options/header-top.php:28
+msgid "Enable Header Top Options"
+msgstr "فعال کردن گزینه های بالای هدر"
+
+#: acmethemes/customizer/header-options/header-top.php:46
+msgid "Display Different Element on Top Right or Left"
+msgstr "نمایش عناصر مختلف در بالای سمت چپ یا راست"
+
+#: acmethemes/customizer/header-options/header-top.php:61
+#, php-format
+msgid ""
+"Add/Edit Menu Items from %1$s here%2$s and select Menu Location : Top Menu "
+"( Support First Level Only ) "
+msgstr ""
+"افزودن/ ویرایش آیتم های منو از %1$s اینجا%2$s و انتخاب مکان محل منو: منوی "
+"بالا (پشتیبانی تنها سطح اول) "
+
+#: acmethemes/customizer/header-options/header-top.php:64
+msgid "Top Menu Display"
+msgstr "نمایش منوی بالا"
+
+#: acmethemes/customizer/header-options/header-top.php:73
+#, php-format
+msgid "Add/Edit Info Items from %1$s here%2$s"
+msgstr "افزودن/ویرایش آیتم های اطلاعات از %1$sاینجا%2$s"
+
+#: acmethemes/customizer/header-options/header-top.php:81
+msgid "Top Info Display"
+msgstr "نمایش اطلاعات بالا"
+
+#: acmethemes/customizer/header-options/header-top.php:95
+#, php-format
+msgid "Add/Edit Social Items from %1$s here%2$s "
+msgstr "افزودن/ویرایش آیتم های شبکه های اجتماعی از %1$sاینجا%2$s "
+
+#: acmethemes/customizer/header-options/header-top.php:98
+msgid "Social Display"
+msgstr "نمایش شبکه های اجتماعی"
+
+#: acmethemes/customizer/header-options/menu-options.php:42
+msgid "Menu Display Options"
+msgstr "تنظیمات نمایش منو"
+
+#: acmethemes/customizer/header-options/menu-options.php:64
+msgid "Enable Sticky Menu"
+msgstr "فعال سازی استیکی شدن منو"
+
+#: acmethemes/customizer/header-options/menu-options.php:79
+msgid "Enable Cart"
+msgstr "فعال سازی سبد خرید"
+
+#: acmethemes/customizer/header-options/menu-options.php:98
+msgid "Special Button On Menu Right"
+msgstr "دکمه ویژه در سمت راست منو"
+
+#: acmethemes/customizer/header-options/menu-options.php:114
+msgid "Button Options"
+msgstr "تنظیمات دکمه"
+
+#: acmethemes/customizer/header-options/menu-options.php:127
+msgid "Button Title"
+msgstr "عنوان دکمه"
+
+#: acmethemes/customizer/header-options/menu-options.php:139
+#, php-format
+msgid "Add Popup Widget from %1$s here%2$s "
+msgstr "افزودن ابزارک پاپ آپ از %1$sاینجا%2$s "
+
+#: acmethemes/customizer/header-options/menu-options.php:161
+msgid "Button Link"
+msgstr "لینک دکمه"
+
+#: acmethemes/customizer/header-options/popup-widgets.php:9
+msgid "Main Title"
+msgstr "عنوان اصلی"
+
+#: acmethemes/customizer/header-options/popup-widgets.php:18
+msgid "Popup Widgets"
+msgstr "ابزارک های پاپ آپ"
+
+#: acmethemes/customizer/options/breadcrumb.php:6
+#: acmethemes/customizer/options/breadcrumb.php:20
+msgid "Breadcrumb Options"
+msgstr "تنظیمات Breadcrumb"
+
+#: acmethemes/customizer/options/options-panel.php:6
+msgid "Theme Options"
+msgstr "تنظیمات قالب"
+
+#: acmethemes/customizer/options/options-panel.php:7
+msgid "Customize your awesome site with theme options "
+msgstr "با تنظیمات سفارشی سازی سایتی زیبا راه اندازی کنید "
+
+#: acmethemes/customizer/options/search.php:17
+msgid "Search Placeholder"
+msgstr "Placeholder جستجو"
+
+#: acmethemes/customizer/options/social-options.php:20
+msgid "Social Options Selection"
+msgstr "انتخاب گزینه های شبکه های اجتماعی"
+
+#: acmethemes/customizer/options/social-options.php:21
+msgid "Select Social Icons and enter link"
+msgstr "آیکون شبکه های اجتماعی و لینک هایشان را وارد کنید"
+
+#: acmethemes/customizer/options/social-options.php:24
+msgid "Social Icon"
+msgstr "آیکون شبکه های اجتماعی"
+
+#: acmethemes/customizer/options/social-options.php:25
+msgid "Add New Icon"
+msgstr "افزودن آیکون جدید"
+
+#: acmethemes/customizer/options/social-options.php:30
+msgid "Select Icon"
+msgstr "انتخاب آیکون"
+
+#: acmethemes/customizer/options/social-options.php:34
+msgid "Enter Link"
+msgstr "لینک را وارد کنید"
+
+#: acmethemes/customizer/options/social-options.php:38
+msgid "Open in New Window"
+msgstr "باز شدن در تب جدید"
+
+#: acmethemes/customizer/single-posts/feature-image.php:5
+msgid "Feature Image Option"
+msgstr "تنظیم ویژگی تصویر"
+
+#: acmethemes/customizer/single-posts/feature-image.php:18
+msgid "Image Size"
+msgstr "سایز تصویر"
+
+#: acmethemes/customizer/single-posts/header-title.php:6
+msgid "Single Header Title"
+msgstr "عنوان هدر صفحه پست ها"
+
+#: acmethemes/customizer/single-posts/header-title.php:17
+msgid "Header Title"
+msgstr "عنوان هدر"
+
+#: acmethemes/customizer/single-posts/single-post-panel.php:6
+msgid "Single Post Option"
+msgstr "تنظیم پست تکی"
+
+#: acmethemes/customizer/wc-options/shop-archive.php:6
+#: acmethemes/customizer/wc-options/shop-archive.php:19
+msgid "Shop Archive Sidebar Layout"
+msgstr "لایه بندی سایدبار بایگانی فروشگاه"
+
+#: acmethemes/customizer/wc-options/shop-archive.php:32
+msgid "Products Per Row"
+msgstr "محصولات در هر ردیف"
+
+#: acmethemes/customizer/wc-options/shop-archive.php:45
+msgid "Total Products Per Page"
+msgstr "مجموع محصولات در هر صفحه"
+
+#: acmethemes/customizer/wc-options/single-product.php:6
+msgid "Single Product"
+msgstr "تک محصول"
+
+#: acmethemes/customizer/wc-options/single-product.php:19
+msgid "Single Product Sidebar Layout"
+msgstr "لایه بندی سایدبار محصول تکی"
+
+#: acmethemes/customizer/wc-options/wc-panel.php:6
+msgid "WooCommerce Options"
+msgstr "تنظیمات ووکامرس"
+
+#: acmethemes/functions.php:49
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: acmethemes/functions.php:53
+msgid "Your comment is awaiting moderation."
+msgstr "نظر شما در انتظار تایید است."
+
+#: acmethemes/functions.php:61
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s در %2$s"
+
+#: acmethemes/functions.php:63
+msgid "(Edit)"
+msgstr "(ویرایش)"
+
+#: acmethemes/functions.php:162
+msgid "Normal Column"
+msgstr "ستون استاندارد"
+
+#: acmethemes/functions.php:163
+msgid "Carousel Column"
+msgstr "ستون چرخشی"
+
+#: acmethemes/functions.php:181
+msgid "Normal"
+msgstr "استاندارد"
+
+#: acmethemes/functions.php:182
+msgid "Feature"
+msgstr "ویژگی"
+
+#: acmethemes/functions.php:200
+msgid "All posts"
+msgstr "تمامی پست ها"
+
+#: acmethemes/functions.php:201
+msgid "Categories"
+msgstr "دسته بندی ها"
+
+#: acmethemes/functions.php:202
+msgid "Tags"
+msgstr "برچسب ها"
+
+#: acmethemes/functions.php:220
+msgid "None"
+msgstr "هیچ"
+
+#: acmethemes/functions.php:221
+msgid "ID"
+msgstr "شناسه"
+
+#: acmethemes/functions.php:222
+msgid "Author"
+msgstr "نویسنده"
+
+#: acmethemes/functions.php:224
+msgid "Date"
+msgstr "تاریخ"
+
+#: acmethemes/functions.php:225
+msgid "Modified Date"
+msgstr "تاریخ اصلاح شده"
+
+#: acmethemes/functions.php:226
+msgid "Random"
+msgstr "تصادفی"
+
+#: acmethemes/functions.php:227
+msgid "Comment Count"
+msgstr "تعداد نظرات"
+
+#: acmethemes/functions.php:228
+msgid "Menu Order"
+msgstr "مرتب سازی منو"
+
+#: acmethemes/functions.php:246
+msgid "ASC"
+msgstr "صعودی"
+
+#: acmethemes/functions.php:247
+msgid "DESC"
+msgstr "نزولی"
+
+#: acmethemes/functions.php:303 template-parts/content-page.php:30
+#: template-parts/content-single.php:56 template-parts/content.php:65
+msgid "Pages:"
+msgstr "صفحات:"
+
+#: acmethemes/hooks/comment-forms.php:18
+msgid "Name"
+msgstr "نام"
+
+#: acmethemes/hooks/comment-forms.php:19
+msgid "Email"
+msgstr "ایمیل"
+
+#: acmethemes/hooks/comment-forms.php:20
+msgid "Website URL"
+msgstr "آدرس وبسایت"
+
+#: acmethemes/hooks/comment-forms.php:21
+msgid "Comment"
+msgstr "دیدگاه"
+
+#: acmethemes/hooks/comment-forms.php:23
+msgid "Add Comment"
+msgstr "افزودن دیدگاه"
+
+#: acmethemes/hooks/comment-forms.php:24
+msgid "Leave a Comment"
+msgstr "پیام بگذارید"
+
+#: acmethemes/hooks/footer.php:98
+#, php-format
+msgid "%1$s by %2$s"
+msgstr "%1$s توسط %2$s"
+
+#: acmethemes/hooks/header.php:132
+msgid "Skip to content"
+msgstr "پرش به محتوا"
+
+#: acmethemes/hooks/siteorigin-panels.php:45
+msgid "AT Portfolio Web Widgets"
+msgstr "ابزارک های قالب"
+
+#: acmethemes/hooks/slider-selection.php:57
+msgid "Portfolio Web - Showcase your Portfolio on the Web World"
+msgstr "Portfolio Web - نمایش نمونه کارهای شما در جهان وب"
+
+#: acmethemes/hooks/slider-selection.php:60
+msgid ""
+"The ultimate theme for showcasing Personal Portfolio and Company Portfolio"
+msgstr "قالبی نامحدود برای نمایش نمونه کارها شخصی و شرکتی شما"
+
+#: acmethemes/hooks/tgm.php:17
+msgid "Acme Demo Setup"
+msgstr ""
+
+#: acmethemes/hooks/tgm.php:22
+msgid "Page Builder by SiteOrigin"
+msgstr "ساخت صفحه توسط SiteOrigin"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "نصب افزونه های مورد نیاز"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "نصب افزونه ها"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "نصب افزونه: %s"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "به روز رسانی افزونه: %s"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "در شناسایی API افزونه اشتباهی رخ داد."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "این قالب نیاز به افزونه های زیر دارد:  %1$s."
+msgstr[1] "این قالب نیاز به افزونه زیر دارد:  %1$s."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "این قالب، افزونه های زیر را توصیه می کند: %1$s."
+msgstr[1] "این قالب، افزونه زیر را توصیه می کند: %1$s."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"افزونه های زیر باید به آخرین نسخه به روز رسانی شوند تا اطمینان حاصل شود "
+"حداکثر سازگاری با این قالب را دارند: %1$s."
+msgstr[1] ""
+"افزونه زیر باید به آخرین نسخه به روز رسانی شود تا اطمینان حاصل شود حداکثر "
+"سازگاری با این قالب را دارد: %1$s."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "به روز رسانی های موجود برای افزونه های زیر موجود است: %1$s."
+msgstr[1] "یک به روز رسانی در دسترس است: %1$s."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "افزونه های مورد نیاز زیر در حال حاضر غیر فعال هستند: %1$s."
+msgstr[1] "افزونه مورد نیاز زیر در حال حاضر غیر فعال است: %1$s."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "افزونه های توصیه شده زیر در حال حاضر غیر فعال هستند: %1$s."
+msgstr[1] "افزونه توصیه شده زیر در حال حاضر غیر فعال است: %1$s."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "نصب افزونه ها را شروع کنید"
+msgstr[1] "نصب افزونه را شروع کنید"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "به روز رسانی افزونه ها را شروع کنید"
+msgstr[1] "به روز رسانی افزونه را شروع کنید"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "فعال سازی افزونه ها را شروع کنید"
+msgstr[1] "فعال سازی افزونه را شروع کنید"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "بازگشت به نصب افزونه های مورد نیاز"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:386
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:827
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2533
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "بازگشت به پیشخوان"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:387
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "افزونه با موفقیت فعال شد."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:388
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "افزونه های زیر با موفقیت فعال شد:"
+msgstr[1] "افزونه زیر با موفقیت فعال شد:"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "هیچ اقدامی انجام نشده است. پلاگین %1$s در حال حاضر فعال است."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"افزونه فعال نیست. نسخه بالاتر %s برای این قالب مورد نیاز است. لطفا افزونه را "
+"به روز رسانی کنید."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "تمامی افزونه ها نصب و فعال سازی شده اند. %1$s"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "این اطلاعیه را رد کنید"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"یک یا چند افزونه ی توصیه برای نصب، به روز رسانی یا فعال سازی وجود دارد."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "لطفا برای کمک به مدیر این سایت با ایشان تماس بگیرید."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "این افزونه باید به روز شود تا با قالب شما سازگار باشد."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "نیازمند به روز رسانی"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr "پوشه های افزونه از راه دور با تغییر نام کار نمی کنند."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:934
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"لطفا با ارائه دهنده افزونه تماس بگیرید و از او بخواهید افزونه را با توجه به "
+"دستورالعمل وردپرس پکیج کند."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"بسته افزونه از راه دور شامل بیش از یک فایل است و در یک پوشه پکیج نمی شوند."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:1121
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "و"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "مورد نیاز"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "توصیه شده"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "مخزن وردپرس"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "منبع خارجی"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "نصب نشد"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "نصب شد اما فعال نشده است"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "فعال سازی"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "به روز رسانی مورد نیاز در دسترس نیست"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "نیازمند به روز رسانی"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "به روز رسانی توصیه می شود"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s، %2$s"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "تمامی <span class=\"count\">(%s)</span>"
+msgstr[1] "تمامی <span class=\"count\">(%s)</span>"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "برای نصب برای فعال سازی <span class=\"count\">(%s)</span>"
+msgstr[1] "برای نصب برای فعال سازی <span class=\"count\">(%s)</span>"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "به روز رسانی در دسترس <span class=\"count\">(%s)</span>"
+msgstr[1] "به روز رسانی در دسترس <span class=\"count\">(%s)</span>"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "برای فعال سازی <span class=\"count\">(%s)</span>"
+msgstr[1] "برای فعال سازی <span class=\"count\">(%s)</span>"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "ناشناس"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "نسخه نصب شده:"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "حداقل نسخه مورد نیاز:"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "نسخه موجود:"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "افزونه ای برای نصب، به روز رسانی یا فعال سازی وجود ندارد."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "افزونه"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "منبع"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "نوع"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "نسخه"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "وضعیت"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr "نصب %2$s"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr "به روز رسانی %2$s"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr "فعال سازی %2$s"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "پیام نویسنده پلاگین برای ارتقا:"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "به روز رسانی"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "هیچ افزونه ای برای نصب انتخاب نشده است."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "هیچ افزونه ای برای به روز رسانی انتخاب نشده است."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "در حال حاضر هیچ افزونه ای در دسترس نیست."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "هیچ افزونه برای به روز رسانی انتخاب نشده است."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "هیچ افزونه برای فعال شدن انتخاب نشده است."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "هیچ افزونه ای در این زمان فعال نیست."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "فعال سازی افزونه ناموفق بود."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "به روز رسانی افزونه %1$s (%2$d/%3$d)"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "هنگام نصب %1$s خطایی رخ داد: <strong>%2$s</strong>."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "نصب %1$s ناموفق بود."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"روند نصب و فعال سازی شروع شده است. این روند ممکن است در بعضی از هاست ها طول "
+"بکشد، پس لطفا صبور باشید."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s با موفقیت نصب و فعال سازی شد."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3509
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "نمایش جزئیات"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3509
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "مخفی کردن جزئیات"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "تمامی فایل ها، نصب و فعال سازی شده اند."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "نصب و فعال سازی افزونه %1$s (%2$d/%3$d)"
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"روند نصب شروع شده است. این روند ممکن است در بعضی از هاست طول بکشد، پس لطفا "
+"صبور باشید."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s با موفقیت نصب شد."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "تمامی فایل ها با موفقیت نصب شدند."
+
+#: acmethemes/library/tgm/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "نصب افزونه %1$s (%2$d/%3$d)"
+
+#: acmethemes/metabox/meta-header.php:16
+msgid "Display Header"
+msgstr "نمایش هدر"
+
+#: acmethemes/metabox/meta-header.php:20
+msgid "Hide Header"
+msgstr "مخفی کردن هدر"
+
+#: acmethemes/metabox/meta-header.php:40 acmethemes/metabox/meta-header.php:49
+msgid " Template Builder Options"
+msgstr " تنظیمات ساخت الگو"
+
+#: acmethemes/metabox/meta-header.php:81
+msgid " Header Option"
+msgstr " تنظیمات هدر"
+
+#: acmethemes/metabox/meta-icons.php:16
+msgid "Featured Icon"
+msgstr "آیکون ویژه"
+
+#: acmethemes/metabox/metabox-defaults.php:56
+#: acmethemes/metabox/metabox-defaults.php:65
+msgid "Sidebar Layout"
+msgstr "طرح بندی سایدبار"
+
+#: acmethemes/metabox/metabox-defaults.php:97
+msgid "Choose Sidebar Template"
+msgstr "قالب سایدبار را انتخاب کنید"
+
+#: acmethemes/metabox/metabox-defaults.php:117
+msgid "You can set up the sidebar content"
+msgstr "شما می توانید محتوای سایدبار را تنظیم کنید"
+
+#: acmethemes/metabox/metabox-defaults.php:117
+msgid "here"
+msgstr "اینجا"
+
+#: acmethemes/sidebar-widget/acme-about.php:21
+#: acmethemes/sidebar-widget/acme-parallax.php:21
+msgid "Download Resume"
+msgstr "دانلود رزومه"
+
+#: acmethemes/sidebar-widget/acme-about.php:23
+#: acmethemes/sidebar-widget/acme-parallax.php:23
+msgid "View Portfolio"
+msgstr "نمایش نمونه کارها"
+
+#: acmethemes/sidebar-widget/acme-about.php:34
+msgid "AT About Section"
+msgstr "بخش درباره ما"
+
+#: acmethemes/sidebar-widget/acme-about.php:37
+msgid "Show About Section with image and description."
+msgstr "نمایش بخش درباره ما با تصویر و توضیحات."
+
+#: acmethemes/sidebar-widget/acme-about.php:57
+#: acmethemes/sidebar-widget/acme-col-posts.php:68
+#: acmethemes/sidebar-widget/acme-contact.php:49
+#: acmethemes/sidebar-widget/acme-gallery.php:48
+#: acmethemes/sidebar-widget/acme-logo.php:43
+#: acmethemes/sidebar-widget/acme-parallax.php:56
+#: acmethemes/sidebar-widget/acme-service.php:58
+#: acmethemes/sidebar-widget/acme-skills.php:54
+#: acmethemes/sidebar-widget/acme-testimonial.php:49
+#: acmethemes/sidebar-widget/acme-timeline.php:48
+msgid "Section ID"
+msgstr "شناسه بخش"
+
+#: acmethemes/sidebar-widget/acme-about.php:60
+#: acmethemes/sidebar-widget/acme-col-posts.php:71
+#: acmethemes/sidebar-widget/acme-contact.php:52
+#: acmethemes/sidebar-widget/acme-gallery.php:51
+#: acmethemes/sidebar-widget/acme-logo.php:46
+#: acmethemes/sidebar-widget/acme-parallax.php:59
+#: acmethemes/sidebar-widget/acme-service.php:61
+#: acmethemes/sidebar-widget/acme-skills.php:57
+#: acmethemes/sidebar-widget/acme-testimonial.php:52
+#: acmethemes/sidebar-widget/acme-timeline.php:51
+msgid ""
+"Enter a Unique Section ID. You can use this ID in Menu item for enabling One "
+"Page Menu."
+msgstr ""
+"شناسه بخش منحصر به فرد را وارد کنید. شما می توانید از این شناسه برای فعال "
+"کردن منو ها بهره ببرید."
+
+#: acmethemes/sidebar-widget/acme-about.php:67
+#: acmethemes/sidebar-widget/acme-parallax.php:66
+msgid "Short Description"
+msgstr "نمایش توضیحات"
+
+#: acmethemes/sidebar-widget/acme-about.php:71
+msgid "Short Content"
+msgstr "محتوای کوتاه"
+
+#: acmethemes/sidebar-widget/acme-about.php:76
+#: acmethemes/sidebar-widget/acme-about.php:88
+msgid "Select Featured Image"
+msgstr "انتخاب تصویر ویژه"
+
+#: acmethemes/sidebar-widget/acme-about.php:92
+#: acmethemes/sidebar-widget/acme-about.php:100
+#: acmethemes/sidebar-widget/acme-parallax.php:87
+#: acmethemes/sidebar-widget/acme-parallax.php:95
+msgid "Extra Button Text"
+msgstr "متن اضافی برای دکمه"
+
+#: acmethemes/sidebar-widget/acme-about.php:96
+#: acmethemes/sidebar-widget/acme-about.php:104
+#: acmethemes/sidebar-widget/acme-parallax.php:91
+#: acmethemes/sidebar-widget/acme-parallax.php:99
+msgid "Button Link Url"
+msgstr "Url لینک دکمه"
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:41
+msgid "AT Posts Column"
+msgstr "ستون پست ها"
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:44
+msgid "Show posts from selected category with advanced options"
+msgstr "نمایش پست ها از دسته بندی ها با تنظیمات پیشرفته"
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:80
+msgid "Show"
+msgstr "نمایش"
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:94
+msgid "Select Category"
+msgstr "انتخاب دسته بندی"
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:117
+msgid "Select Tag"
+msgstr "انتخاب تگ"
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:140
+msgid "Number of posts to show"
+msgstr "نمایش تعداد پست ها"
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:145
+#: acmethemes/sidebar-widget/acme-service.php:169
+#: acmethemes/sidebar-widget/acme-skills.php:192
+#: acmethemes/sidebar-widget/acme-testimonial.php:185
+#: acmethemes/sidebar-widget/acme-timeline.php:211
+msgid "Content From"
+msgstr "محتوا از"
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:159
+msgid "Number of words on content"
+msgstr "تعداد کلمات در محتوا"
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:163
+#: acmethemes/sidebar-widget/acme-contact.php:101
+#: acmethemes/sidebar-widget/acme-service.php:185
+#: acmethemes/sidebar-widget/acme-skills.php:208
+#: acmethemes/sidebar-widget/acme-testimonial.php:201
+#: acmethemes/sidebar-widget/acme-timeline.php:227
+msgid "Please enter -1 to show full content or 0 to show none"
+msgstr "لطفا 1- را برای نمایش کامل محتوا یا 0 برای نمایش هیچ یک وارد کنید"
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:168
+#: acmethemes/sidebar-widget/acme-gallery.php:158
+#: acmethemes/sidebar-widget/acme-logo.php:159
+#: acmethemes/sidebar-widget/acme-service.php:190
+#: acmethemes/sidebar-widget/acme-skills.php:214
+#: acmethemes/sidebar-widget/acme-testimonial.php:206
+msgid "Column Number"
+msgstr "شماره ستون"
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:182
+#: acmethemes/sidebar-widget/acme-col-posts.php:197
+msgid "Order by"
+msgstr "سفارش داده شده توس"
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:213
+#: acmethemes/sidebar-widget/acme-gallery.php:185
+msgid "Normal Featured Post Image"
+msgstr "تصویر استاندارد برای پست ویژه"
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:225
+#: acmethemes/sidebar-widget/acme-contact.php:106
+#: acmethemes/sidebar-widget/acme-logo.php:173
+#: acmethemes/sidebar-widget/acme-service.php:203
+#: acmethemes/sidebar-widget/acme-skills.php:227
+#: acmethemes/sidebar-widget/acme-timeline.php:235
+msgid "Background Options"
+msgstr "تنظیمات پس زمینه"
+
+#: acmethemes/sidebar-widget/acme-col-posts.php:239
+msgid ""
+"Note: Some of the features only work in \"Home main content area\" due to "
+"minimum width in other areas."
+msgstr ""
+"نکته: بعضی از ویژگی ها تنها در \"محتوای صفحه اصلی\" کار می کنند، زیرا حداقل "
+"عرض را در نواحی دیگر در نظر بگیرید."
+
+#: acmethemes/sidebar-widget/acme-contact.php:28
+msgid "AT Contact Section"
+msgstr "بخش محتوا"
+
+#: acmethemes/sidebar-widget/acme-contact.php:31
+msgid "Show Contact Section."
+msgstr "نمایش بخش محتوا."
+
+#: acmethemes/sidebar-widget/acme-contact.php:59
+msgid "Enter Shortcode"
+msgstr "کد کوتاه را وارد کنید"
+
+#: acmethemes/sidebar-widget/acme-contact.php:63
+#, php-format
+msgid "Download contact form 7 from %1$shere%2$s"
+msgstr "دانلود افزونه  contact form 7 از %1$sاینجا%2$s"
+
+#: acmethemes/sidebar-widget/acme-contact.php:68
+msgid "Select Page For Contact"
+msgstr "انتخاب صفحه ی تماس با ما"
+
+#: acmethemes/sidebar-widget/acme-contact.php:70
+msgid ""
+"Select page and its title and excerpt will display in the frontend. No need "
+"of subpages."
+msgstr ""
+"صفحه ای را انتخاب کنید تا عنوان و چکیده آن در صفحه اول نمایش داده می شود. "
+"بدون نیاز به زیرصفحه."
+
+#: acmethemes/sidebar-widget/acme-contact.php:78
+#: acmethemes/sidebar-widget/acme-gallery.php:88
+#: acmethemes/sidebar-widget/acme-gallery.php:136
+#: acmethemes/sidebar-widget/acme-service.php:99
+#: acmethemes/sidebar-widget/acme-service.php:147
+#: acmethemes/sidebar-widget/acme-skills.php:102
+#: acmethemes/sidebar-widget/acme-skills.php:164
+#: acmethemes/sidebar-widget/acme-testimonial.php:93
+#: acmethemes/sidebar-widget/acme-testimonial.php:160
+#: acmethemes/sidebar-widget/acme-timeline.php:100
+#: acmethemes/sidebar-widget/acme-timeline.php:176
+msgid "Select Page"
+msgstr "انتخاب صفحه"
+
+#: acmethemes/sidebar-widget/acme-contact.php:85
+msgid "Page Content From"
+msgstr "محتوای صفحه از"
+
+#: acmethemes/sidebar-widget/acme-contact.php:98
+msgid "Number of page words in content"
+msgstr "تعداد کلمات صفحه در محتوا"
+
+#: acmethemes/sidebar-widget/acme-gallery.php:27
+msgid "AT Gallery Section"
+msgstr "بخش گالری"
+
+#: acmethemes/sidebar-widget/acme-gallery.php:30
+msgid "Show Gallery Section."
+msgstr "نمایش بخش گالری."
+
+#: acmethemes/sidebar-widget/acme-gallery.php:58
+#: acmethemes/sidebar-widget/acme-service.php:69
+#: acmethemes/sidebar-widget/acme-skills.php:65
+#: acmethemes/sidebar-widget/acme-testimonial.php:59
+msgid "Select Pages"
+msgstr "انتخاب صفحات"
+
+#: acmethemes/sidebar-widget/acme-gallery.php:60
+msgid ""
+"Add Page, Reorder and Remove. Please do not forget to add Featured Image on "
+"selected pages. "
+msgstr "لطفا اضافه کردن، مرتب سازی و حذف صفحه را فراموش نکنید. "
+
+#: acmethemes/sidebar-widget/acme-gallery.php:77
+#: acmethemes/sidebar-widget/acme-gallery.php:125
+#: acmethemes/sidebar-widget/acme-service.php:88
+#: acmethemes/sidebar-widget/acme-service.php:136
+#: acmethemes/sidebar-widget/acme-testimonial.php:82
+#: acmethemes/sidebar-widget/acme-testimonial.php:149
+msgid "Select Item"
+msgstr "انتخاب آیتم"
+
+#: acmethemes/sidebar-widget/acme-gallery.php:94
+#: acmethemes/sidebar-widget/acme-gallery.php:142
+#: acmethemes/sidebar-widget/acme-logo.php:98
+#: acmethemes/sidebar-widget/acme-logo.php:143
+#: acmethemes/sidebar-widget/acme-service.php:105
+#: acmethemes/sidebar-widget/acme-service.php:153
+#: acmethemes/sidebar-widget/acme-skills.php:125
+#: acmethemes/sidebar-widget/acme-skills.php:175
+#: acmethemes/sidebar-widget/acme-testimonial.php:114
+#: acmethemes/sidebar-widget/acme-testimonial.php:170
+#: acmethemes/sidebar-widget/acme-timeline.php:131
+#: acmethemes/sidebar-widget/acme-timeline.php:195
+msgid "Remove"
+msgstr "حذف"
+
+#: acmethemes/sidebar-widget/acme-gallery.php:100
+#: acmethemes/sidebar-widget/acme-service.php:111
+#: acmethemes/sidebar-widget/acme-skills.php:112
+#: acmethemes/sidebar-widget/acme-testimonial.php:103
+#: acmethemes/sidebar-widget/acme-testimonial.php:120
+#: acmethemes/sidebar-widget/acme-timeline.php:110
+#: acmethemes/sidebar-widget/sidebar.php:213
+msgid "Full Edit"
+msgstr "ویرایش کامل"
+
+#: acmethemes/sidebar-widget/acme-gallery.php:151
+#: acmethemes/sidebar-widget/acme-logo.php:153
+#: acmethemes/sidebar-widget/acme-service.php:162
+#: acmethemes/sidebar-widget/acme-skills.php:185
+#: acmethemes/sidebar-widget/acme-testimonial.php:180
+#: acmethemes/sidebar-widget/acme-timeline.php:205
+msgid "Add Item"
+msgstr "افزودن آیتم"
+
+#: acmethemes/sidebar-widget/acme-gallery.php:171
+msgid "Image Popup Type"
+msgstr "نوع پاپ آپ تصویر"
+
+#: acmethemes/sidebar-widget/acme-logo.php:26
+msgid "AT Advanced Image/Logo"
+msgstr "تصویر/لوگو پیشرفته"
+
+#: acmethemes/sidebar-widget/acme-logo.php:28
+msgid "Show Image/Logo with advanced options"
+msgstr "نمایش تصویر/لوگو با تنظیمات پیشرفته"
+
+#: acmethemes/sidebar-widget/acme-logo.php:53
+msgid "Add Image and Link"
+msgstr "تصویر و لینک را اضافه کنید"
+
+#: acmethemes/sidebar-widget/acme-logo.php:55
+msgid "Add Logo, Reorder and Remove."
+msgstr "افزودن، مرتب سازی و حذف لوگو."
+
+#: acmethemes/sidebar-widget/acme-logo.php:75
+#: acmethemes/sidebar-widget/acme-logo.php:123
+msgid "Select Logo"
+msgstr "انتخاب لوگو"
+
+#: acmethemes/sidebar-widget/acme-logo.php:93
+#: acmethemes/sidebar-widget/acme-logo.php:138
+msgid "Enter Image Link"
+msgstr "لینک تصویر را وارد کنید"
+
+#: acmethemes/sidebar-widget/acme-parallax.php:34
+msgid "AT Feature Section"
+msgstr "بخش ویژگی ها"
+
+#: acmethemes/sidebar-widget/acme-parallax.php:37
+msgid "Show Parallax Section."
+msgstr "نمایش بخش پارالاکس."
+
+#: acmethemes/sidebar-widget/acme-parallax.php:71
+#: acmethemes/sidebar-widget/acme-parallax.php:83
+#: acmethemes/sidebar-widget/acme-service.php:217
+#: acmethemes/sidebar-widget/acme-service.php:229
+#: acmethemes/sidebar-widget/acme-skills.php:241
+#: acmethemes/sidebar-widget/acme-skills.php:253
+#: acmethemes/sidebar-widget/acme-testimonial.php:220
+#: acmethemes/sidebar-widget/acme-testimonial.php:232
+msgid "Select Background Image"
+msgstr "انتخاب تصویر پس زمینه"
+
+#: acmethemes/sidebar-widget/acme-service.php:32
+msgid "AT Service Section"
+msgstr "بخش خدمات"
+
+#: acmethemes/sidebar-widget/acme-service.php:35
+#: acmethemes/sidebar-widget/acme-skills.php:33
+msgid "Show Section with beautiful Icons."
+msgstr "نمایش بخش ها با آیکن های زیبا."
+
+#: acmethemes/sidebar-widget/acme-service.php:71
+#: acmethemes/sidebar-widget/acme-skills.php:67
+msgid ""
+"Add Page, Reorder and Remove. Please do not forget to add Icon and Excerpt "
+"on selected pages."
+msgstr "لطفا اضافه کردن، مرتب سازی و حذف صفحه را فراموش نکنید."
+
+#: acmethemes/sidebar-widget/acme-service.php:182
+#: acmethemes/sidebar-widget/acme-skills.php:205
+#: acmethemes/sidebar-widget/acme-testimonial.php:198
+#: acmethemes/sidebar-widget/acme-timeline.php:224
+msgid "Number of words in content"
+msgstr "تعداد کلمات در محتوا"
+
+#: acmethemes/sidebar-widget/acme-service.php:234
+msgid "Design Type"
+msgstr "نوع طراحی"
+
+#: acmethemes/sidebar-widget/acme-skills.php:30
+msgid "AT Skills Section"
+msgstr "بخش مهارت ها"
+
+#: acmethemes/sidebar-widget/acme-skills.php:90
+#: acmethemes/sidebar-widget/acme-skills.php:152
+msgid "Skill"
+msgstr "مهارت"
+
+#: acmethemes/sidebar-widget/acme-skills.php:120
+#: acmethemes/sidebar-widget/acme-skills.php:170
+msgid "Enter Skills % Number"
+msgstr "میزان مهارت را به % وارد کنید"
+
+#: acmethemes/sidebar-widget/acme-testimonial.php:28
+msgid "AT Testimonial Section"
+msgstr "بخش مشتریان راضی"
+
+#: acmethemes/sidebar-widget/acme-testimonial.php:31
+msgid "Show Testimonial Section."
+msgstr "نمایش بخش مشتریان راضی."
+
+#: acmethemes/sidebar-widget/acme-testimonial.php:61
+msgid ""
+"Add Page, Reorder and Remove. Please do not forget to add Featured Image and "
+"Excerpt on selected pages"
+msgstr "لطفا افزودن، مرتب سازی و حذف صفحه را فراموش نکنید"
+
+#: acmethemes/sidebar-widget/acme-testimonial.php:110
+#: acmethemes/sidebar-widget/acme-testimonial.php:166
+msgid "Enter designation"
+msgstr "سمت را وارد کنید"
+
+#: acmethemes/sidebar-widget/acme-timeline.php:28
+msgid "AT Timeline Widget"
+msgstr "ابزارک نوار زمان"
+
+#: acmethemes/sidebar-widget/acme-timeline.php:31
+msgid "Show Timeline Section beautifully"
+msgstr "نمایش بخش نوار زمان"
+
+#: acmethemes/sidebar-widget/acme-timeline.php:58
+msgid "Add Timeline Options"
+msgstr "تنظیمات نوار زمان را اضافه کنید"
+
+#: acmethemes/sidebar-widget/acme-timeline.php:60
+msgid "Add Timeline, Reorder and Remove."
+msgstr "افزودن، مرتب سازی و حذف نوار زمان."
+
+#: acmethemes/sidebar-widget/acme-timeline.php:88
+#: acmethemes/sidebar-widget/acme-timeline.php:164
+msgid "Timeline"
+msgstr "نوار زمان"
+
+#: acmethemes/sidebar-widget/acme-timeline.php:118
+#: acmethemes/sidebar-widget/acme-timeline.php:182
+msgid "Enter Timeline Title"
+msgstr "عنوان نوار زمان را وارد کنید"
+
+#: acmethemes/sidebar-widget/acme-timeline.php:122
+#: acmethemes/sidebar-widget/acme-timeline.php:186
+msgid "Enter Timeline Date (Duration)"
+msgstr "تاریخ نوار زمان را وارد کنید (مدت زمان)"
+
+#: acmethemes/sidebar-widget/acme-timeline.php:126
+#: acmethemes/sidebar-widget/acme-timeline.php:190
+msgid "Enter Timeline Link"
+msgstr "لینک نوار زمان را وارد کنید"
+
+#: acmethemes/sidebar-widget/sidebar.php:31
+msgid "Gray"
+msgstr "خاکستری"
+
+#: acmethemes/sidebar-widget/sidebar.php:72
+msgid "Gallery"
+msgstr "گالری"
+
+#: acmethemes/sidebar-widget/sidebar.php:73
+msgid "Single"
+msgstr "تکی"
+
+#: acmethemes/sidebar-widget/sidebar.php:116
+#, php-format
+msgid ""
+"Displays widgets on home page main content area.%1$s Note : Please go to "
+"%2$s \"Static Front Page\"%3$s setting, Select \"A static page\" then "
+"\"Front page\" and \"Posts page\" to show added widgets"
+msgstr ""
+"ابزارک ها را در صفحه اصلی نمایش می دهد. %1$s توجه: لطفا به صفحه %2$s صفحه "
+"اصلی استاتیک %3$s بروید، صفحه \"استاتیک\" را انتخاب کنید و سپس آنرا به صفحه "
+"اصلی و صفحه پست ها اضافه کنید"
+
+#: acmethemes/sidebar-widget/sidebar.php:119
+msgid ""
+"Displays widgets on Front/Home page. Note : Please go to Setting => Reading, "
+"Select \"A static page\" then \"Front page\" and \"Posts page\" to show "
+"added widgets"
+msgstr ""
+"ابزارک ها را در Front / Home نمایش می دهد. توجه: لطفا به تنظیمات => قسمت "
+"خواندن بروید، «صفحه استاتیک» را انتخاب کنید و سپس «صفحه اصلی» و «صفحه پست» "
+"را به آن ها اضافه کنید"
+
+#: acmethemes/sidebar-widget/sidebar.php:142
+msgid "Footer Column One"
+msgstr "ستون اول فوتر"
+
+#: acmethemes/sidebar-widget/sidebar.php:144
+#: acmethemes/sidebar-widget/sidebar.php:154
+#: acmethemes/sidebar-widget/sidebar.php:164
+#: acmethemes/sidebar-widget/sidebar.php:174
+msgid "Displays items on top footer section."
+msgstr "آیتم ها را در بخش بالا و پایین صفحه نمایش می دهد."
+
+#: acmethemes/sidebar-widget/sidebar.php:152
+msgid "Footer Column Two"
+msgstr "ستون دوم فوتر"
+
+#: acmethemes/sidebar-widget/sidebar.php:162
+msgid "Footer Column Three"
+msgstr "ستون سوم فوتر"
+
+#: acmethemes/sidebar-widget/sidebar.php:172
+msgid "Footer Column Four"
+msgstr "ستون چهارم فوتر"
+
+#: acmethemes/sidebar-widget/sidebar.php:182
+msgid "Popup Widget Area"
+msgstr "ابزارک پاپ آپ"
+
+#: acmethemes/sidebar-widget/sidebar.php:184
+msgid "Displays items on Pop up"
+msgstr "آیتم ها را در پاپ آپ نمایش می دهد"
+
+#: comments.php:32
+#, php-format
+msgctxt "comments title"
+msgid "One Thought to &ldquo;%s&rdquo;"
+msgstr "یک دیدگاه برای &ldquo;%s&rdquo;"
+
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Thought to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Thoughts to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s دیدگاه برای &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s دیدگاه برای &ldquo;%2$s&rdquo;"
+
+#: comments.php:51 comments.php:72
+msgid "Comment navigation"
+msgstr "ناوبری نظرات"
+
+#: comments.php:54 comments.php:74
+msgid "Older Comments"
+msgstr "نظرات قدیمی تر"
+
+#: comments.php:55 comments.php:75
+msgid "Newer Comments"
+msgstr "نظرات جدیدتر"
+
+#: comments.php:84
+msgid "Comments are closed."
+msgstr "نظرات بسته شده اند."
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتایج جستجو برای: %s"
+
+#: single.php:49
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+"<span class=\"meta-nav\">منتشر شده در</span><span class=\"post-title\">"
+"%title</span>"
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "پیدا نشد"
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"آماده انتشار اولین پست خود هستید؟<a href=\"%1$s\">از اینجا شروع کنید</a>."
+
+#: template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"با عرض پوزش، اما هیچ چیز مطابق با شرایط جستجوی شما یافت نشد. لطفا با برخی از "
+"کلمات کلیدی دوباره امتحان کنید."
+
+#: template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"به نظر می رسد ما نمی توانیم چیزی که به دنبال آن هستید را بیابیم. شاید جستجو "
+"بتواند کمکتان کند."
+
+#: template-parts/content.php:61
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "ادامه را بخوانید %s <span class=\"meta-nav\">&rarr;</span>"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.acmethemes.com/themes/portfolio-web"
+msgstr "https://demo.hamyarwp.com/portfolio-web"
+
+#. Author of the plugin/theme
+msgid "acmethemes"
+msgstr "همیار وردپرس"
+
+#. Author URI of the plugin/theme
+msgid "https://www.acmethemes.com/"
+msgstr "https://hamyarwp.com/"
